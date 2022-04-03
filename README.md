@@ -3,8 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=emircandayac&color=blueviolet">
 <img src="https://github-readme-stats.vercel.app/api?username=emircandayac&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
+## I'm a Student , Developer , Designer and more
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Software Developer

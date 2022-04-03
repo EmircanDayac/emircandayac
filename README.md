@@ -1,2 +1,2 @@
-### Hi there emircandayac[**https://github.com/emircandayac/**] 👋
+### Hi there [Emircan Dayac](https://github.com/emircandayac/) 👋
 

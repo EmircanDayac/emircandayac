@@ -7,4 +7,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircandayac&theme=midnight-purple">
 
+### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+- [Temelde Anlamamak](https://medium.com/@emircandayac/temelde-anlamamak-e6cc1af2d7e0)
+
+<!-- BLOG-POST-LIST:END -->
